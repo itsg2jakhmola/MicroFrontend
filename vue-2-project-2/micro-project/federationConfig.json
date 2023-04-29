@@ -1,0 +1,6 @@
+{
+  "name": "dms",
+  "exposes": {
+    "./HelloWorld.vue": "./src/components/HelloWorld.vue"
+  }
+}
